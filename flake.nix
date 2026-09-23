@@ -34,6 +34,9 @@
             xinit
             xauth
             xsetroot
+            dmenu
+            i3status
+            xinit
           ];
 
           flags = {
